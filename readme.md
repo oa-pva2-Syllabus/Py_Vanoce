@@ -1,4 +1,5 @@
 # Obsah 
+
 ## Vánoční hrátky
 
 1. SignSimpleTree
@@ -10,8 +11,9 @@
 
 ## Dokumentace
 * Pro každý projekt nastavit Run - configuration - Emulate terminal in output console
+![console](/nastaveni_console.png)
 * Instalace python balíčků: termcolor a colorama
-
+![packages](/instalace_package.png)
 
 
 
@@ -24,3 +26,4 @@
 
 ### Poznámka
 Run - configuration - Emulate terminal in output console
+
