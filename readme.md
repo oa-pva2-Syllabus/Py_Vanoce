@@ -10,10 +10,12 @@
 6. CardWithStar
 
 ## Dokumentace
-* Pro každý projekt nastavit Run - configuration - Emulate terminal in output console
-![console](/nastaveni_console.png)
 * Instalace python balíčků: termcolor a colorama
 ![packages](/instalace_package.png)
+* Po spouštění aplikace (pro každou) nastavit Run - configuration - Emulate terminal in output console
+* alternativně v Run - Configuration - v sekci Run vybrat Modify options a v sekci Python vybrat Emulate terminal in output console
+![console](/nastaveni_console.png)
+
 
 
 
@@ -26,4 +28,5 @@
 
 ### Poznámka
 Run - configuration - Emulate terminal in output console
+
 
